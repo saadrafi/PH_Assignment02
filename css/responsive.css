@@ -43,8 +43,14 @@
   .feature_info {
     width: 95%;
   }
- 
-  
-
   /* ----------------------Third-Section End--------------------- */
+   /* ----------------------Fourth-Section Start--------------------- */
+   .facts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+   }
+   /* ----------------------Fourth-Section End--------------------- */
 }
