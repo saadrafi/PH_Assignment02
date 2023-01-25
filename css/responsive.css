@@ -31,4 +31,20 @@
     height: 150px;
   }
   /* ----------------------Second-Section End--------------------- */
+
+  /* ----------------------Third-Section Start--------------------- */
+
+  .third_section {
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 30px;
+  }
+
+  .feature_info {
+    width: 95%;
+  }
+ 
+  
+
+  /* ----------------------Third-Section End--------------------- */
 }
