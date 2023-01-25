@@ -53,4 +53,9 @@
     row-gap: 20px;
    }
    /* ----------------------Fourth-Section End--------------------- */
+   /* ----------------------Fifth-Section Start--------------------- */
+   .sponsors{
+    flex-direction: column;
+    row-gap: 10px;
+   }
 }
