@@ -44,18 +44,19 @@
     width: 95%;
   }
   /* ----------------------Third-Section End--------------------- */
-   /* ----------------------Fourth-Section Start--------------------- */
-   .facts{
+  /* ----------------------Fourth-Section Start--------------------- */
+  .facts {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     row-gap: 20px;
-   }
-   /* ----------------------Fourth-Section End--------------------- */
-   /* ----------------------Fifth-Section Start--------------------- */
-   .sponsors{
+  }
+  /* ----------------------Fourth-Section End--------------------- */
+  /* ----------------------Fifth-Section Start--------------------- */
+  .sponsors {
     flex-direction: column;
     row-gap: 10px;
-   }
+  }
+  /* ----------------------Fifth-Section End--------------------- */
 }
